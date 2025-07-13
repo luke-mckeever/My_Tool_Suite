@@ -1,0 +1,90 @@
+MagicBytes,FileType
+FFD8FFE0,JPEG Image
+FFD8FFE1,JPEG Image
+FFD8FFE8,JPEG Image
+89504E47,PNG Image
+47494638,GIF Image
+49492A00,TIFF Image (little-endian)
+4D4D002A,TIFF Image (big-endian)
+424D,BMP Image
+25504446,PDF Document
+504B0304,ZIP Archive
+504B0506,ZIP Archive (empty)
+504B0708,ZIP Archive (spanned)
+52617221,RAR Archive v1.5
+526172211A0700,RAR Archive v5.0
+1F8B08,GZIP Archive
+7F454C46,Linux ELF Executable
+4D5A,Windows Executable (MZ Header)
+377ABCAF271C,7-Zip Archive
+7573746172,TAR Archive (ustar)
+000001BA,MPEG Video
+000001B3,MPEG Video
+494433,MP3 Audio (ID3v2)
+FFFB,MP3 Audio (MPEG-1 Layer III)
+FFF3,MP3 Audio (MPEG-2 Layer III)
+FFF2,MP3 Audio (MPEG-2.5 Layer III)
+00000020667479706D70,MP4 Video
+00000018667479706973,M4V Video
+3026B2758E66CF11,Windows Media Audio/Video (ASF)
+4F676753,OGG Media File
+664C6143,FLAC Audio
+D0CF11E0A1B11AE1,Microsoft Office Document (pre-2007)
+504B030414000600,"Microsoft Office Open XML (DOCX, XLSX, PPTX)"
+3C3F786D6C,XML Document
+68746D6C3E,HTML Document
+7B5C727466,RTF Document
+494E4445,Adobe Indesign File
+38425053,Photoshop PSD
+2E524D46,RealMedia File
+00000100,ICO Icon File
+CAFEBABE,Java Class File
+EFBBBF,UTF-8 BOM Text File
+0001000044455845,DEX Android Executable
+4D546864,MIDI Audio File
+23FFFE,DICOM Medical File
+435753,CWS Flash File (compressed)
+465753,FWS Flash File (uncompressed)
+1A45DFA3,Matroska/WebM (MKV/WEBM)
+2E736E64,AUDACITY Sound Project (.SND)
+ACED0005,Java Serialized Object
+4C00000001140200,Windows Link File (.LNK)
+00000200,Windows Cursor (.CUR)
+A1B2C3D4,PCAP File (big-endian)
+D4C3B2A1,PCAP File (little-endian)
+EDABEEDB,BAT Script with UTF-8 BOM
+3C21444F4354595045,HTML with DOCTYPE
+425A68,BZIP2 Archive
+5A4F4F20,Zoo Archive
+4C5A4950,LZIP Archive
+377ABCAF271C,7-Zip Archive
+2A2A2A2A,Lexicon (.LEX)
+7B0D0A,Windows INF File
+2142444E,Thumbs.db (Windows thumbnail database)
+43505446,TrueType Font (.TTF)
+00000014667479707174,QuickTime Movie File
+33444946,Windows Event Log (.EVTX)
+4D534346,Microsoft Cabinet File (.CAB)
+4F7B0E,Cisco IOS Firmware
+52494646,WAV/AVI (RIFF container)
+000001BA,MPEG Program Stream
+000001B3,MPEG Video Stream
+4C00000001140200,Windows Shell Link (.LNK)
+6D6F6F76,Apple QuickTime (.MOV)
+4C00000001140200,Windows Shortcut
+4A415243,Jar Archive
+CEFAEDFE,Mac Universal Binary (Fat)
+D4C3B2A1,PCAP file
+A2390000,Windows Icon Resource
+43505446,TrueType Collection Font (.TTC)
+3C21454E54495459,SGML File
+53494D504C452D,Simple File Verification
+4F50,OpenDocument (.ODT, .ODS, .ODP)
+000100005374616E64617264204A6574204442,Jet DB (Access .MDB)
+FD377A585A00,xz compressed archive
+465249,FRITZBox Firmware Image
+000100005374616E64617264204A6574204442,Microsoft Access Database (.MDB)
+435753,SWF File (Compressed)
+2E7261,RA Audio File
+2E524D46,RealMedia File
+1F9D,Compressed Unix File (.Z)

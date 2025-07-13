@@ -1,0 +1,26 @@
+=== Extracted IOCs ===
+
+IPv4:
+  - 10.10.10.32
+
+URLs:
+  - http://mynameisnot.uri
+  - https://mynameis.com
+
+Domains:
+  - fddfs.hffhdf.com
+  - mynameis.com
+  - mynameisnot.uri
+  - outlook.com
+
+MAC Addresses:
+  - 00:1A:2B:3C:4D:5E
+
+MD5 Hashes:
+  - 6a8401448a5bd2b540850f811b20a66d
+
+SHA256 Hashes:
+  - 178ba564b39bd07577e974a9b677dfd86ffa1f1d0299dfd958eb883c5ef6c3e1
+
+Email Addresses:
+  - seamous@outlook.com
